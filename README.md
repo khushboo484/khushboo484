@@ -20,7 +20,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![Khushboo's github stats](https://github-readme-stats.vercel.app/api?username=khushboo484)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Khushboo's github stats](https://github-readme-stats.vercel.app/api?username=khushboo484&show_icons=true&theme=dracula)
 
