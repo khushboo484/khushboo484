@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development and Java 
 - 🌱 I’m currently learning Android App Development
-- 👯 I’m looking to collaborate on Front-End Development
+- 👯 I’m looking to collaborate on Java Projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Web Develop
+- 💬 Ask me about Web Develop 
 - 📫 How to reach me: https://www.linkedin.com/in/khushboo-mehndiratta-274036194/
 <!--
 - 😄 Pronouns: ...
