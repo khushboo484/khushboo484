@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Web Development and Java 
+- 🔭 I’m currently working on Full Stack Development 
 - 🌱 I’m currently learning Android App Development
 - 👯 I’m looking to collaborate on Java Projects
 - 🤔 I’m looking for help with ...
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 ![Khushboo's github stats](https://github-readme-stats.vercel.app/api?username=khushboo484&show_icons=true&theme=dracula)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushboo484)](https://github.com/khushboo484/github-readme-stats)
