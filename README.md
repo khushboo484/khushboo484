@@ -5,11 +5,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Full Stack Development 
-- 🌱 I’m currently learning Android App Development
-- 👯 I’m looking to collaborate on Java Projects
+- 🔭 I’m currently working on Full stack Development
+- 🌱 I’m currently learning ..
+- 👯 I’m looking to collaborate on Java Development, Web Development
 - 🤔 I’m looking for help with ..
-- 💬 Ask me about Web Development 
+- 💬 Ask me about java, web, sql..
 - 📫 How to reach me: https://www.linkedin.com/in/khushboo-mehndiratta-274036194/
 <!--
 - 😄 Pronouns: ...
